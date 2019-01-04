@@ -1,0 +1,25 @@
+
+
+USER STORY 1.
+User should be able able to create, view, edit, save and delete teacher information.
+User should be able to view a list of teacher. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: Find better way to compare arrays in junit tests.
